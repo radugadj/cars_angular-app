@@ -8,9 +8,6 @@
 - Angular/forms
 
 
-# Приложение выполнялось на интенсиве от ITlogia.ru
-
-
 ## Development server
 
 Run `npm install` or `yarn install`
